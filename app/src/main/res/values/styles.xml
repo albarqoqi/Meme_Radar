@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Radar</string>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0E1116</item>
+        <item name="android:statusBarColor">#0E1116</item>
+    </style>
+</resources>
